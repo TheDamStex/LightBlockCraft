@@ -1,0 +1,4 @@
+name: LightBlockCraft
+version: '1.0-SNAPSHOT'
+main: org.thedamstex21.lightBlockCraft.LightBlockCraft
+api-version: '1.21'
