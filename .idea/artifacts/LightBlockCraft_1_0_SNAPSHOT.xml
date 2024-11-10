@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LightBlockCraft-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/out/artifacts/LightBlockCraft_1_0_SNAPSHOT</output-path>
+    <root id="archive" name="LightBlockCraft-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="LightBlockCraft.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
